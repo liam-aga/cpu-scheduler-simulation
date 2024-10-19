@@ -1,5 +1,5 @@
-# executive.py @author Liam Aga  3050093 9/22/2022 | lab2 TA: S.Awan | This lab demonstrates the use of linked queues
-# and stacks in order to implement a mock CPU scheduler by manipulating object-oriented design.
+# executive.py @author Liam Aga  3050093 9/22/2022 |
+
 from process import Process
 from scheduler import Scheduler
 from function import Function
